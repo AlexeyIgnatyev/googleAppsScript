@@ -1,0 +1,7 @@
+{
+  "name": "googleAppsScript",
+  "version": "0.1.0",
+  "dependencies": {
+    "node-google-apps-script": "1.1.5"
+  }
+}
